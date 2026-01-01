@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End Developer with 1 years of experience building responsive web applications using React and <br>modern UI frameworks. Final-year Computer Science student at Damietta University, passionate about clean <br>code and user-centric design
+Front-End Developer with 1 year of experience building responsive web applications using React and <br>modern UI frameworks. Final-year Computer Science student at Damietta University, passionate about clean <br>code and user-centric design
 
 
 ## 🌐 Socials:
